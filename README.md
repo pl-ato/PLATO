@@ -16,7 +16,7 @@ Scene Rearrangement Planning (SRP) has recently emerged as a crucial interior sc
 
 - Download data from [OneDrive](https://1drv.ms/f/c/a3c8b9329182f3c6/EgwV7Q3qvDdEjMUe_T_D7bYBefoO_vpB0M5C3L6MZCNoHw?e=ZGSxjo)
 
-- Create a python environment and install `pybind11`, 'pillow', `pytorch`, and `numpy`.
+- Create a python environment and install `pybind11`, `pillow`, `pytorch`, and `numpy`.
 
 - Enter `env/build` and execute `make` to build the SRP environment.
 
