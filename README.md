@@ -4,7 +4,7 @@
 [Hanqing Wan*](https://hanqingwangai.github.io/),
 [Wei Liang](https://liangwei-bit.github.io/web/)
 
-> Code for the paper "Mastering Scene Rearrangement with Expert-assisted Curriculum Learning and Adaptive Trade-Off Tree-Search" (IROS 2024)
+> Code for the paper "Mastering Scene Rearrangement with Expert-assisted Curriculum Learning and Adaptive Trade-Off Tree-Search (IROS 2024)".
 
 ## Abstarct
 
